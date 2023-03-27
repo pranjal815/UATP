@@ -1,0 +1,6 @@
+stepDefinitions/PurchaseAProduct_Steps.class
+stepDefinitions/SignUp_Steps.class
+pageObject/SignUp.class
+common/Hooks.class
+common/BasePage.class
+pageObject/PurchaseAProduct.class
